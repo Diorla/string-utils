@@ -1,0 +1,20 @@
+{
+  "name": "string-utils",
+  "version": "1.0.0",
+  "description": "A couple of functions for handling strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "strings",
+    "utils",
+    "title",
+    "truncate"
+  ],
+  "author": "Ade Adeola",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
